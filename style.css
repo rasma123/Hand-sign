@@ -1,0 +1,38 @@
+body
+{
+  color: white;
+  background: #234aa5;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_handsign_name  
+{
+  color: black;
+}
+.handsign_name
+{
+  font-size: 40px;
+}
+.handsign
+{
+  font-size:48px;
+}
+.heading {
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label {
+ background-color: aliceblue;
+ color: rgb(95, 183, 228);
+ border-radius: 20px;
+ padding: 10px;
+}
